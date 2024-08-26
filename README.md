@@ -12,7 +12,7 @@ whipFTP is a FTP/SFTP client written in python using the tkinter GUI toolkit. Ca
 # Getting whipFTP
 
 #### Ubuntu/Debian:
-+  Download the [.deb](https://github.com/RainingComputers/whipFTP/releases/download/v5.0/whipFTP_5.0.deb) file and install it.
++  Download the [.deb](https://github.com/releases/download/v5.0/whipFTP_5.0.deb) file and install it.
 
 #### Windows:
 + Install Python (minimum required version: python3.6.3 for 10/7 and python3.4.0 for XP), download the [.zip](https://github.com/RainingComputers/whipFTP/releases/download/v5.0/whipFTP_5.0_windows.zip) file and extract it. Run `install_dependencies.py` script to install dependencies. Now you can run `whipFTP.pyw` to launch the application.
@@ -52,8 +52,7 @@ whipFTP is a FTP/SFTP client written in python using the tkinter GUI toolkit. Ca
 *Goto parent directory*
 
 # License
-+ MIT License. See: https://github.com/RainingComputers/whipFTP/blob/master/LICENSE.md
-
++ MIT License.
 # Bugs
 + Application looks blurry when DPI scaling is enabled.
 + Search on the root directory does not work.
